@@ -31,9 +31,9 @@ redis_db: 1234
 
 min_db_connections: 5
 max_db_connections: 10
-db_user: 'db_user'
-db_password: 'db_password'
-db_name: 'db_name'
+db_user: 'Dexty'
+db_password: 'Flavioleal91!'
+db_name: 'topsgrupos.database.windows.net'
 
 # telegram IDs of the admins of the bot (list)
 admins:
